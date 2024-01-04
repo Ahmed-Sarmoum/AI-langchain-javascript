@@ -19,7 +19,7 @@ const input0 = "What is the capital of France?";
 const result0 = await executor.call({ input: input0 });
 console.log(result0);
 
-const input1 = "who is the president of algeria 2022?";
+const input1 = "who won the world cup 2022?";
 
 const result1 = await executor.call({ input: input1 });
 console.log(result1);
